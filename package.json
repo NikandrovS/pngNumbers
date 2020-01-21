@@ -1,0 +1,12 @@
+{
+  "name": "pngNumbers",
+  "version": "1.0.2",
+  "description": "simple CLI app for generating .png images",
+  "main": "app.js",
+  "scripts": {
+    "test": " "
+  },
+  "keywords": [],
+  "author": "SN",
+  "license": "ISC"
+}
